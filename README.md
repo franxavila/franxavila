@@ -68,7 +68,7 @@ Apoio a empresas e profissionais para estruturar soluções escaláveis com uso 
 ## 📬 Contato
 
 📧 **francisco@avilaengenharia.net**  
-🌐 [enginai.com.br](https://enginai.com.br)  
+🌐 [avilaengenharia.net/enginai](https://www.avilaengenharia.net/enginai)  
 💼 [LinkedIn](https://linkedin.com/in/fxavila)  
 🐙 [GitHub](https://github.com/franxavila)
 
